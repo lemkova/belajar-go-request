@@ -62,7 +62,7 @@ func main() {
 		}
 		fmt.Printf("Status Water: %s\n", statusWater)
 
-		time.Sleep(3 * time.Second)
+		time.Sleep(15 * time.Second)
 	}
 
 }
